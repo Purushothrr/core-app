@@ -34,9 +34,9 @@
     </repository>
     <snapshotRepository>
       <uniqueVersion>true</uniqueVersion>
-      <id>maven-snapshots</id>
-      <name>maven-snapshots</name>
-      <url>http://54.177.243.80:8081/repository/maven-snapshots/</url>
+      <id>core-snapshots</id>
+      <name>core-snapshots</name>
+      <url>http://54.177.243.80:8081/repository/core-snapshots/</url>
       <layout>legacy</layout>
     </snapshotRepository>
   </distributionManagement>
