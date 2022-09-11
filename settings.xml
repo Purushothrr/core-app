@@ -8,7 +8,7 @@
           <password>core-user</password>
         </server>
         <server>
-          <id>core-snapshots</id>
+          <id>core-snapshot</id>
           <username>core-user</username>
           <password>core-user</password>
         </server>
