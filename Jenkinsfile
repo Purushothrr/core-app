@@ -7,7 +7,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                git branch: 'dev', url: 'https://github.com/devopsgsvc/core-app.git'
+                git branch: 'dev', url: 'https://github.com/Purushothrr/core-app.git'
                 sh "mvn -Dmaven.test.failure.ignore=true -s settings.xml clean install"
             }
 
